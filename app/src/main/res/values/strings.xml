@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="error_divide_by_zero">Operação não permitida</string>
+    <string name="botaoCalcular">Calcular</string>
+    <string name="titulo">Calculadora IMD</string>
+    <string name="parte1">Calculadora</string>
+    <string name="parte2">Notas</string>
+    <string name="labelNota01">Nota 01</string>
+    <string name="labelNota02">Nota 02</string>
+    <string name="labelNota03">Nota 03</string>
+    <string name="botaoCalcularnotas">Calcular nota</string>
+    <string name="tvResultado">Resultado:</string>
+    <string name="your_name">Ana Luisa Estevam</string>
+</resources>
