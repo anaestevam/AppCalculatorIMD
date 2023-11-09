@@ -1,5 +1,3 @@
-Aqui está um exemplo de um arquivo README para o seu aplicativo Android:
-
 # Calculadora IMD - Proposta de Avaliação (1ª Unidade)
 
 Este aplicativo Android foi desenvolvido como parte da proposta de avaliação para a disciplina de Programação de Dispositivos Móveis I, da Universidade Federal do Rio Grande do Norte.
