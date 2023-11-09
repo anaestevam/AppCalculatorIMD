@@ -3146,7 +3146,6 @@ id bounceStart
 id bt0
 id bt01
 id bt02
-id bt08
 id bt1
 id bt2
 id bt3
@@ -3467,6 +3466,7 @@ id showCustom
 id showHome
 id showTitle
 id sin
+id situacao
 id skipCollapsed
 id skipped
 id slide

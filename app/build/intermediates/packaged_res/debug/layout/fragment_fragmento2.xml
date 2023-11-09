@@ -57,12 +57,21 @@
                 android:text="Calcular" />
 
             <TextView
-                android:id="@+id/resultado"
-                android:layout_width="wrap_content"
+                android:id="@+id/situacao"
+                android:layout_width="114dp"
                 android:layout_height="wrap_content"
                 android:layout_gravity="left"
                 android:layout_marginTop="16dp"
                 android:text="Situação:"
+                android:textSize="24sp" />
+
+            <TextView
+                android:id="@+id/resultado"
+                android:layout_width="340dp"
+                android:layout_height="106dp"
+                android:layout_gravity="left"
+                android:layout_marginTop="16dp"
+                android:text=""
                 android:textSize="24sp" />
 
             <TextView

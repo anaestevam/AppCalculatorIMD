@@ -16,10 +16,6 @@
         "source": "/home/ana/.gradle/daemon/8.0/com.example.cursoandroid.app-main-33:/layout/activity_main.xml"
     },
     {
-        "merged": "com.example.cursoandroid.app-merged_res-31:/layout_fragment_fragmento1.xml.flat",
-        "source": "com.example.cursoandroid.app-main-33:/layout/fragment_fragmento1.xml"
-    },
-    {
         "merged": "/home/ana/.gradle/daemon/8.0/com.example.cursoandroid.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "/home/ana/.gradle/daemon/8.0/com.example.cursoandroid.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
     },
@@ -78,5 +74,9 @@
     {
         "merged": "/home/ana/.gradle/daemon/8.0/com.example.cursoandroid.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "/home/ana/.gradle/daemon/8.0/com.example.cursoandroid.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.cursoandroid.app-merged_res-31:/layout_fragment_fragmento2.xml.flat",
+        "source": "com.example.cursoandroid.app-main-33:/layout/fragment_fragmento2.xml"
     }
 ]

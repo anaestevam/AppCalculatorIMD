@@ -29,19 +29,19 @@
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintVertical_bias="0.201" />
 
-        <TextView
-            android:id="@+id/resultTextView"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text=""
-            android:textSize="32sp"
-            android:layout_gravity="center"
-            android:layout_marginTop="16dp"
-            tools:ignore="MissingConstraints" />
+            <TextView
+                android:id="@+id/resultTextView"
+                android:layout_width="319dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="16dp"
+                android:text=""
+                android:textSize="32sp"
+                tools:ignore="MissingConstraints" />
 
             <GridLayout
                 android:layout_width="match_parent"
-                android:layout_height="210dp"
+                android:layout_height="233dp"
                 android:layout_gravity="center"
                 android:layout_marginTop="16dp"
                 android:columnCount="4"
@@ -180,26 +180,14 @@
                     android:text="=" />
             </GridLayout>
 
-
-        <TextView
-            android:id="@+id/aluna"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/your_name"
-            tools:layout_editor_absoluteX="102dp"
-            tools:layout_editor_absoluteY="696dp"
-            tools:ignore="MissingConstraints" />
-
-        <Button
-            android:id="@+id/bt08"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Button"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.683" />
+            <TextView
+                android:id="@+id/aluna"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/your_name"
+                tools:ignore="MissingConstraints"
+                tools:layout_editor_absoluteX="102dp"
+                tools:layout_editor_absoluteY="696dp" />
         </LinearLayout>
     </androidx.constraintlayout.widget.ConstraintLayout>
 </FrameLayout>

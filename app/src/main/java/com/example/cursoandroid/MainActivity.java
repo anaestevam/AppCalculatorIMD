@@ -4,7 +4,9 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.FragmentTransaction;
 
 import android.os.Bundle;
+import android.view.LayoutInflater;
 import android.view.View;
+import android.view.ViewGroup;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -17,6 +19,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         frag1 = new Fragmento1();
         frag2 = new Fragmento2();
+        FragmentTransaction fm = getSupportFragmentManager().beginTransaction();
+        fm.replace(R.id.frameL01, frag1);
+        fm.commit();
     }
     public void irFragmento1(View view){
         FragmentTransaction fm = getSupportFragmentManager().beginTransaction();

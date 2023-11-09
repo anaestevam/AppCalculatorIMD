@@ -3145,7 +3145,6 @@ int id bounceStart 0x7f080061
 int id bt0 0x7f080200
 int id bt01 0x7f080062
 int id bt02 0x7f080063
-int id bt08 0x7f080064
 int id bt1 0x7f080201
 int id bt2 0x7f080202
 int id bt3 0x7f080203
@@ -3466,6 +3465,7 @@ int id showCustom 0x7f08018c
 int id showHome 0x7f08018d
 int id showTitle 0x7f08018e
 int id sin 0x7f08018f
+int id situacao 0x7f080210
 int id skipCollapsed 0x7f080190
 int id skipped 0x7f080191
 int id slide 0x7f080192
