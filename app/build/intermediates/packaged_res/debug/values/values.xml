@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="azul">#2196F3</color>
+    <color name="black">#FF000000</color>
+    <color name="button_background">#4287f5</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Calculadora</string>
+    <string name="botaoCalcular">Calcular</string>
+    <string name="botaoCalcularnotas">Calcular nota</string>
+    <string name="error_divide_by_zero">Operação não permitida</string>
+    <string name="labelNota01">Nota 01</string>
+    <string name="labelNota02">Nota 02</string>
+    <string name="labelNota03">Nota 03</string>
+    <string name="parte1">Calculadora</string>
+    <string name="parte2">Notas</string>
+    <string name="titulo">Calculadora IMD</string>
+    <string name="tvResultado">Resultado:</string>
+    <string name="your_name">Aluna: Ana Luisa Estevam</string>
+    <style name="Base.Theme.CursoAndroid" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.CursoAndroid" parent="Base.Theme.CursoAndroid"/>
+</resources>
